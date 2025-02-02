@@ -6,7 +6,7 @@
     <title>Para Alanis</title>
     <style>
         body {
-            background-image: url('https://github.com/Andixs21/Proyecto-alanis/blob/main/pngtree-pink-tulips-in-an-old-park-image_13329465.jpg?raw=true');
+            background-image: url('https://github.com/Andixs21/Proyecto-alanis/blob/main/premium_photo-1671974489983-083171c0215e.jpeg?raw=true');
             background-size: cover;
             background-attachment: fixed;
             text-align: center;
