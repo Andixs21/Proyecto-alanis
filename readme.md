@@ -108,7 +108,7 @@
     </div>
 
     <div id="seccion4" class="container hidden">
-        <img src="https://raw.githubusercontent.com/Andixs21/Presentaci-n-para-alanis/ec92ba58334645f61c57e1cc9631c0608a64a744/Imagen%20de%20WhatsApp%202025-02-02%20a%20las%2014.02.58_c6c158d9.jpg" alt="Imagen Especial">
+        <img src="https://raw.githubusercontent.com/Andixs21/Presentaci-n-para-alanis/ec92ba58334645f61c57e1cc9631c0608a64a744/Imagen%20de%20WhatsApp%202025-02-02%20a%20las%2014.02.58_c6c158d9.jpg" alt="Imagen Especial" style="max-width: 100%; height: auto;">
         <p>Gracias por todos estos momentos a tu lado, ya sean tristes, felices, emocionantes, incómodos, amorosos. Todos me gustó experimentarlos contigo, ya que eres la persona más especial en mi vida que me hizo sentir muchas cosas por primera vez.</p>
         <p>Pronto estaremos juntos y ya no tendremos que lidiar con esta distancia porque créeme que estoy totalmente seguro de estar contigo toda mi vida, con la mujer que amo tanto con todo mi corazón, que siempre voy a cuidar, respetar y proteger.</p>
         <button onclick="mostrarSeccion(5)">Final</button>
